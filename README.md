@@ -1,7 +1,7 @@
 
 # Resources for learning Grid & Flex
 
-Any helpful resources I come accross to learn Grid and Flex will be dumped here. 
+Any helpful resources I come across to learn Grid and Flex will be dumped here. 
 
 I hope this makes the process of understanding Grid and Flex layouts easier for whoever sees this repo. 
 
